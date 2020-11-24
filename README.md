@@ -1,5 +1,5 @@
 # Options-Screener
-My personal twitter bot that posts a tweet of stock options with unusual movement.
+My personal twitter bot that posts a tweet of stocks with that may be worth buying.
 
 Any information published via this bot is purely for entertainment purposes and none is financial advice.
 
