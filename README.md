@@ -1,4 +1,5 @@
 # Options-Screener
+https://twitter.com/ScreenerOptions
 My personal twitter bot that posts a tweet of stocks with that may be worth buying.
 
 Any information published via this bot is purely for entertainment purposes and none is financial advice.
